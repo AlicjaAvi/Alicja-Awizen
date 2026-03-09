@@ -1,0 +1,14 @@
+{
+    "bills-1": {
+        "kwota": 200.80,
+        "apartment": "apart-polanka",
+        "data_platnosci": "na dziś",
+        "typ_rachunku": "fajny"
+    },
+    "bills-2": {
+        "kwota": 1000.90,
+        "apartment": "apart-polankaTV",
+        "data_platnosci": "na wczoraj",
+        "typ_rachunku": "git"
+    }
+}
