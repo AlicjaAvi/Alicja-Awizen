@@ -1,6 +1,6 @@
 # NIP rent
 
-Aplikacja do rozliczania najmowanych mieszkań. Mega sprawa ogólnie
+Aplikacja do rozliczania najmowanych mieszkań.
 
 ## Getting started
 
@@ -11,4 +11,4 @@ python3.12 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-Mega sprawa ogólnie.
+### Mega sprawa ogólnie.
